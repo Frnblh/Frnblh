@@ -1,16 +1,22 @@
-## Hi there 👋
+#FARAH
 
-<!--
-**Frnblh/Frnblh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I am FARAH NABILAH BINTI NAJMUDIN, a dedicated and enthusiastic student eager to learn and grow in the field of Bachelor Of Computer Science (Bioinformatics). Currently enrolled at Universiti Teknologi Malaysia, I am passionate about  the intersection of biology, computer science, mathematics, and statistics.
 
-Here are some ideas to get you started:
+## Academic Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *Degree:* Bachelor Of Computer Science (Bioinformatics)
+- *Major:* Computer Science
+- *University:* Universiti Teknologi Malaysia
+- *Expected Graduation Year:* 2025
+
+## Skills
+
+- *Programming Languages:* C++, JavaScript, Linux, PHP
+- *Soft Skills:* Communication, Teamwork, Problem-solving
+
+
+## Contact Information
+
+- *Email:* farah.nabilah@graduate.utm.my
+
+Feel free to get in touch if you have any shared interests, opportunities, or just to say hello! Let's connect and learn from each other.
